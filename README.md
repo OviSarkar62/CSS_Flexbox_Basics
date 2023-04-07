@@ -17,11 +17,11 @@ Some of the key concepts in Flexbox include:
 
 Here are some of the most commonly used Flexbox properties:
 
-display: flex: Turns an element into a Flexbox container.
-flex-direction: Specifies the direction of the main axis.
-justify-content: Specifies how Flexbox items are aligned along the main axis.
-align-items: Specifies how Flexbox items are aligned along the cross axis.
-flex-wrap: Specifies whether Flexbox items should wrap or not.
+- display: flex: Turns an element into a Flexbox container.
+- flex-direction: Specifies the direction of the main axis.
+- justify-content: Specifies how Flexbox items are aligned along the main axis.
+- align-items: Specifies how Flexbox items are aligned along the cross axis.
+- flex-wrap: Specifies whether Flexbox items should wrap or not.
 
 ### Examples
 
