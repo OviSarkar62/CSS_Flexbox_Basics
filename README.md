@@ -13,7 +13,7 @@ Some of the key concepts in Flexbox include:
 - Flex item: The child elements of the flex container.
 - 
 - Main axis: The primary axis along which flex items are laid out.
-- 
+
 - Cross axis: The perpendicular axis to the main axis.
 
 ### Basic Flexbox Properties
