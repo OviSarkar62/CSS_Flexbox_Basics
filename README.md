@@ -13,7 +13,7 @@ Some of the key concepts in Flexbox include:
 - Main axis: The primary axis along which flex items are laid out.
 - Cross axis: The perpendicular axis to the main axis.
 
-### Basic Flexbox Properties
+## Basic Flexbox Properties
 
 Here are some of the most commonly used Flexbox properties:
 
@@ -23,6 +23,6 @@ Here are some of the most commonly used Flexbox properties:
 - align-items: Specifies how Flexbox items are aligned along the cross axis.
 - flex-wrap: Specifies whether Flexbox items should wrap or not.
 
-### Examples
+## Examples
 
 The repository includes example of how to use Flexbox and how it is different from Grid to create different layouts. You can check out the example in the [flex.html](flex/flex.html).
