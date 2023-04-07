@@ -1,6 +1,6 @@
 # CSS Flexbox Basics
 
-This repository is a beginner's guide to CSS Flexbox, covering the basics of how to use Flexbox to layout and align elements in a web page.
+This repository is covering the basics of how to use Flexbox to layout and align elements in a web page.
 
 ## Understanding Flexbox
 
