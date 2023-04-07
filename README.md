@@ -25,4 +25,4 @@ Here are some of the most commonly used Flexbox properties:
 
 ### Examples
 
-The repository includes example of how to use Flexbox and how it is different from Grid to create different layouts. You can check out the example in the flex/ flex.html.
+The repository includes example of how to use Flexbox and how it is different from Grid to create different layouts. You can check out the example in the flex.html[flex/flex.html].
