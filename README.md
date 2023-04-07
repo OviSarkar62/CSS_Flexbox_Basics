@@ -9,11 +9,8 @@ Flexbox is a CSS layout module that allows you to easily create flexible and res
 Some of the key concepts in Flexbox include:
 
 - Flex container: The container element that holds the flex items.
-- 
 - Flex item: The child elements of the flex container.
-- 
 - Main axis: The primary axis along which flex items are laid out.
-
 - Cross axis: The perpendicular axis to the main axis.
 
 ### Basic Flexbox Properties
